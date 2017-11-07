@@ -1,0 +1,9 @@
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\TNT\NetworkStream TCP chat\ChatServer\ChatServer\bin\Debug\Newtonsoft.Json.xml

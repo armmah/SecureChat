@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Chat.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="last_IP_Entry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">134.0.111.151</Value>
+    </Setting>
+    <Setting Name="last_Port_Entry" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27010</Value>
+    </Setting>
+    <Setting Name="debug_mode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
